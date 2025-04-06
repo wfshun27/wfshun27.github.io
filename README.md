@@ -1,6 +1,7 @@
-Data Scientist
+Senior
 
-Technical Skill: System Administration, 
+Technical Skill: System Administration 
 Certification: Azure 104
+
 Welcome to my profile.
 
