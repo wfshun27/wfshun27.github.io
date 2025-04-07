@@ -1,7 +1,6 @@
 Senior Engineer
 
-Technical Skill: System Administration 
-Certification: Azure 104, AZ 400
+Technical Skill: System Administration, IT Support
+Certification: AZ104, AZ204, AZ350, AZ400, AZ500 
 
-Welcome to my profile.
 
