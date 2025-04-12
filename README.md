@@ -9,21 +9,48 @@ System Administration, Technical Support
 - ITIL v4 Foundation
 
 ### Experiences:
-- Senior Engineer
-- Engineer
-- System Administrator
-- Senior IT Engineer
-- API Web Analyst
-- Consultant
+- PCS Security Pte Ltd 
+  Senior Engineer
+  
+- Intrado EC Singapore Pte Ltd
+  System Administrator
+  
+- Trend Micro
+  Senior IT Engineer
 
+- Sabre Corporation (Asia Pacific) 
+  Associate Web Service Product Support
+
+- Singapura Finance
+  Senior Associate Engineer
+
+- Rockwell Collins (Information Management Services)
+  Staff Engineer
+
+- ST Electronic (Info-Comm)
+  Senior Associate Engineer
+
+- IT Consultant
+  Doric Solution LLP
+
+- IT Executive 
+  Nanyang Technological Universtity
+
+- Hewlett Packard
+  Technical Support Specialist Plus System Administrator
+  
+- OPUS IT Service Pte Ltd
+  Customer IT Support Representive
 
 ### Skill:
 System Administion
 PowerShell
 Python
 Elastic Kibana
-
-
+Operation System
+- Window Server (2012 R2, 2016, 2022)
+  Linux (CentOS, RedHat, Ubuntu)
+  
 ### Education:
 Diploma in Computer Engineering
 
