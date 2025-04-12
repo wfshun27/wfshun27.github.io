@@ -30,12 +30,16 @@ System Administration, Technical Support
 - ST Electronic (Info-Comm)
   Senior Associate Engineer
 
-- IT Consultant
-  Doric Solution LLP
+-  
+-  
+-  
+- Doric Solution LLP 
+  IT Consultant
+  
 
-- IT Executive 
-  Nanyang Technological Universtity
-
+- Nanyang Technological Universtity
+  IT Executive 
+  
 - Hewlett Packard
   Technical Support Specialist Plus System Administrator
   
