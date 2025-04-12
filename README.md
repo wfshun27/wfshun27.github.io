@@ -10,34 +10,34 @@ System Administration, Technical Support
 
 ### Experiences:
 PCS Security Pte Ltd 
-</br>Senior Engineer
+<br />Senior Engineer
   
 Intrado EC Singapore Pte Ltd
-</br>System Administrator
+System Administrator
   
 Trend Micro
-</br>Senior IT Engineer
+Senior IT Engineer
 
 Sabre Corporation (Asia Pacific) 
-</br>Associate Web Service Product Support
+Associate Web Service Product Support
 
 Singapura Finance
-</br>Senior Associate Engineer
+Senior Associate Engineer
 
 Rockwell Collins (Information Management Services)
-</br>Staff Engineer
+Staff Engineer
 
 ST Electronic (Info-Comm)
-</br>Senior Associate Engineer
+Senior Associate Engineer
 
 Doric Solution LLP 
-</br>IT Consultant
+IT Consultant
 
 Nanyang Technological Universtity
-</br>IT Executive 
+IT Executive 
   
 Hewlett Packard
-</br>Technical Support Specialist Plus System Administrator
+Technical Support Specialist Plus System Administrator
   
 OPUS IT Service Pte Ltd
 </br>Customer IT Support Representive
