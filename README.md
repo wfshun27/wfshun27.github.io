@@ -8,13 +8,13 @@ System Administration, Technical Support
 - Cisco Certified Network Associate (CCNA)
 - ITIL v4 Foundation
 
-### Experiences
-Senior Engineer
-Engineer
-System Administrator
-Senior IT Engineer
-API Web Analyst
-Consultant
+### Experiences:
+- Senior Engineer
+- Engineer
+- System Administrator
+- Senior IT Engineer
+- API Web Analyst
+- Consultant
 
 
 
