@@ -18,7 +18,10 @@ System Administration, Technical Support
 
 
 ### Skill:
-
+System Administion
+PowerShell
+Python
+Elastic Kibana
 
 
 ### Education:
