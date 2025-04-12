@@ -30,9 +30,6 @@ System Administration, Technical Support
 - ST Electronic (Info-Comm)
   Senior Associate Engineer
 
--  
--  
--  
 - Doric Solution LLP 
   IT Consultant
   
