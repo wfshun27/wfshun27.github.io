@@ -17,7 +17,7 @@ System Administration, Technical Support
 - Consultant
 
 
-### Skill
+### Skill:
 
 
 
