@@ -13,43 +13,43 @@ PCS Security Pte Ltd
 <br />Senior Engineer
   
 Intrado EC Singapore Pte Ltd
-System Administrator
+<br />System Administrator
   
 Trend Micro
-Senior IT Engineer
+<br />Senior IT Engineer
 
 Sabre Corporation (Asia Pacific) 
-Associate Web Service Product Support
+<br />Associate Web Service Product Support
 
 Singapura Finance
-Senior Associate Engineer
+<br />Senior Associate Engineer
 
 Rockwell Collins (Information Management Services)
-Staff Engineer
+<br />Staff Engineer
 
 ST Electronic (Info-Comm)
-Senior Associate Engineer
+<br />Senior Associate Engineer
 
 Doric Solution LLP 
-IT Consultant
+<br />IT Consultant
 
 Nanyang Technological Universtity
-IT Executive 
+<br />IT Executive 
   
 Hewlett Packard
-Technical Support Specialist Plus System Administrator
+<br />Technical Support Specialist Plus System Administrator
   
 OPUS IT Service Pte Ltd
-Customer IT Support Representive
+<br />Customer IT Support Representive
 
 ### Skill:
 System Administion
-PowerShell
-Python
-Elastic Kibana
-Operation System
-- Window Server (2012 R2, 2016, 2022)
-  Linux (CentOS, RedHat, Ubuntu)
+<br />PowerShell
+<br />Python
+<br />Elastic Kibana
+<br />Operation System
+<br />Window Server (2012 R2, 2016, 2022)
+<br />Linux (CentOS, RedHat, Ubuntu)
   
 ### Education:
 Diploma in Computer Engineering
