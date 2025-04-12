@@ -40,7 +40,7 @@ Hewlett Packard
 Technical Support Specialist Plus System Administrator
   
 OPUS IT Service Pte Ltd
-</br>Customer IT Support Representive
+Customer IT Support Representive
 
 ### Skill:
 System Administion
