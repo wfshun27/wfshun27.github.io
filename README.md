@@ -8,6 +8,9 @@ System Administration, Technical Support
 - Cisco Certified Network Associate (CCNA)
 - ITIL v4 Foundation
 
-#### Languages:
+### Education:
+Diploma in Computer Engineering
+
+### Languages:
 English
 Chinese
