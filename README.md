@@ -14,7 +14,7 @@ System Administration, Technical Support, Cloud Admin
 
 ### Experiences:
 PCS Security Pte Ltd \
-Senior Engineer
+Senior Engineer \
 <br />
   
 Intrado EC Singapore Pte Ltd
