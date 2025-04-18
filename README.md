@@ -1,16 +1,20 @@
 # Senior Engineer
 
 ### Technical Skill: 
-System Administration, Technical Support
+System Administration, Technical Support, Cloud Admin
 
 ### Certification: 
-- Microsoft: AZ-104, AZ-204, AZ-350, AZ-400, AZ-500, AZ-700, AZ-900 
+- Microsoft: AZ-104, AZ-204, AZ-350, AZ-400, AZ-500, AZ-700, AZ-900, SC900 
 - Cisco Certified Network Associate (CCNA)
 - ITIL v4 Foundation
+
+### Certification of Completion 
+- Career Essentials in Data Analysis by Microsoft and LinkedIn
 
 ### Experiences:
 PCS Security Pte Ltd 
 <br />Senior Engineer
+<br />
   
 Intrado EC Singapore Pte Ltd
 <br />System Administrator
