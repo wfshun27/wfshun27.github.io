@@ -4,12 +4,14 @@
 System Administration, Technical Support, Cloud Admin
 
 ### Certification: 
-- Microsoft: AZ-104, AZ-204, AZ-350, AZ-400, AZ-500, AZ-700, AZ-900, SC900 
+'''
+- Microsoft: [AZ-104], AZ-204, AZ-350, [AZ-400](https://learn.microsoft.com/api/credentials/share/en-gb/OngHockSoon-8999/95713F6D6A977650?sharingId=343CE5989FD29592), AZ-500, AZ-700, AZ-900, SC900 
 - Cisco Certified Network Associate (CCNA)
 - ITIL v4 Foundation
-
+'''
 ### Certification of Completion 
 - Career Essentials in Data Analysis by Microsoft and LinkedIn
+- ServiceNow Fundamental (On Demand)
 
 ### Experiences:
 PCS Security Pte Ltd 
