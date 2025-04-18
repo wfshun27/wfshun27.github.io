@@ -15,37 +15,37 @@ System Administration, Technical Support, Cloud Admin
 ### Experiences:
 PCS Security Pte Ltd \
 Senior Engineer \
-<br />
+
   
-Intrado EC Singapore Pte Ltd
-<br />System Administrator
+Intrado EC Singapore Pte Ltd \
+System Administrator \
   
-Trend Micro
-<br />Senior IT Engineer
+Trend Micro \
+Senior IT Engineer \
 
-Sabre Corporation (Asia Pacific) 
-<br />Associate Web Service Product Support
+Sabre Corporation (Asia Pacific) \
+Associate Web Service Product Support \
 
-Singapura Finance
-<br />Senior Associate Engineer
+Singapura Finance \
+Senior Associate Engineer \
 
-Rockwell Collins (Information Management Services)
-<br />Staff Engineer
+Rockwell Collins (Information Management Services) \
+Staff Engineer \
 
-ST Electronic (Info-Comm)
-<br />Senior Associate Engineer
+ST Electronic (Info-Comm) \
+Senior Associate Engineer \
 
-Doric Solution LLP 
-<br />IT Consultant
+Doric Solution LLP \
+IT Consultant \
 
-Nanyang Technological Universtity
-<br />IT Executive 
+Nanyang Technological Universtity \
+IT Executive \
   
-Hewlett Packard
-<br />Technical Support Specialist Plus System Administrator
+Hewlett Packard \
+Technical Support Specialist Plus System Administrator \
   
-OPUS IT Service Pte Ltd
-<br />Customer IT Support Representive
+OPUS IT Service Pte Ltd \
+Customer IT Support Representive \ 
 
 ### Skill:
 System Administion
