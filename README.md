@@ -15,7 +15,6 @@ System Administration, Technical Support, Cloud Admin
 ### Experiences:
 PCS Security Pte Ltd \
 Senior Engineer
-
   
 Intrado EC Singapore Pte Ltd \
 System Administrator
@@ -49,8 +48,7 @@ Customer IT Support Representive
 
 ### Skill:
 System Administion:\
-PowerShell\
-Python
+PowerShell, Python
 
 Monitoring:\
 CA UMI, Elastic Kibana
@@ -58,10 +56,9 @@ CA UMI, Elastic Kibana
 Operation System: \
 Window Server (2012 R2, 2016, 2022) \
 Linux (CentOS, RedHat, Ubuntu)
-  
+
 ### Education:
 Diploma in Computer Engineering
 
 ### Languages:
-English
-Chinese
+English, Chinese
