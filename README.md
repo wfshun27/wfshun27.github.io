@@ -47,7 +47,7 @@ OPUS IT Service Pte Ltd \
 Customer IT Support Representive
 
 ### Skill:
-Language:\
+**Language:**\
 Python, Powershell, XML, JSON
 
 Monitoring:\
