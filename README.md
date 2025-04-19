@@ -50,17 +50,17 @@ Customer IT Support Representive
 **Language:**\
 Python, Powershell, XML, JSON
 
-Monitoring:\
+**Monitoring:**\
 CA UMI, Elastic (Kibana)
 
-Operation System: \
+**Operation System:** \
 Window Server (2012 R2, 2016, 2022) \
 Linux (CentOS, RedHat, Ubuntu)
 
-Cloning and Backup Software: \
+**Cloning and Backup Software:** \
 Symantec Ghost Enterprise, CA ARCServe Backup
 
-Office Application: \
+**Office Application:** \
 Office 2016, 2019, Office 365
 
 ### Education:
