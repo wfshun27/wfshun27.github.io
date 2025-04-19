@@ -48,7 +48,7 @@ Customer IT Support Representive
 
 ### Skill:
 Language:\
-Pytho, Powershell, XML, Json
+Pytho, Powershell, XML, JSON
 
 Monitoring:\
 CA UMI, Elastic Kibana
