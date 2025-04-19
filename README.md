@@ -51,7 +51,7 @@ Language:\
 Pytho, Powershell, XML, JSON
 
 Monitoring:\
-CA UMI, Elastic Kibana
+CA UMI, Elastic (Kibana)
 
 Operation System: \
 Window Server (2012 R2, 2016, 2022) \
