@@ -47,8 +47,8 @@ OPUS IT Service Pte Ltd \
 Customer IT Support Representive
 
 ### Skill:
-System Administion:\
-PowerShell, Python
+Language:\
+Pytho, Powershell, XML, Json
 
 Monitoring:\
 CA UMI, Elastic Kibana
