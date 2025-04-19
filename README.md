@@ -48,7 +48,6 @@ OPUS IT Service Pte Ltd \
 Customer IT Support Representive
 
 ### Skill:
-<<<<<<< HEAD
 System Administion:\
 PowerShell\
 Python
@@ -60,21 +59,6 @@ Operation System: \
 Window Server (2012 R2, 2016, 2022) \
 Linux (CentOS, RedHat, Ubuntu)
   
-=======
-Scripting Lanuage \ 
-- PowerShell, Python, XML, JSON \
-
-Monitoring
-- Elastic Kibana, CA UMI
-
-Operation System \
-- Window Server (2012 R2, 2016, 2022)
-- Linux (CentOS, RedHat, Ubuntu)
-
-Cloud \
-- Azure
-
->>>>>>> 214d737 (Update Skill)
 ### Education:
 Diploma in Computer Engineering
 
