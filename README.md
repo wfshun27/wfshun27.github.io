@@ -14,37 +14,38 @@ System Administration, Technical Support, Cloud Admin (Beginner)
 - AI for All: From Basics to GenAI Practice (Nvidia)
 
 ### 💼 Experiences:
+
 PCS Security Pte Ltd \
 Senior Engineer
   
-#Intrado EC Singapore Pte Ltd \
+Intrado EC Singapore Pte Ltd \
 System Administrator
   
-### Trend Micro \
+Trend Micro \
 Senior IT Engineer
 
-### Sabre Corporation (Asia Pacific) \
+Sabre Corporation (Asia Pacific) \
 Associate Web Service Product Support
 
-### Singapura Finance \
+Singapura Finance \
 Senior Associate Engineer
 
-### Rockwell Collins (Information Management Services) \
+Rockwell Collins (Information Management Services) \
 Staff Engineer
 
-### ST Electronic (Info-Comm) \
+ST Electronic (Info-Comm) \
 Senior Associate Engineer
 
-### Doric Solution LLP \
+Doric Solution LLP \
 IT Consultant
 
-### Nanyang Technological Universtity \
+Nanyang Technological Universtity \
 IT Executive
   
-### Hewlett Packard \
+Hewlett Packard \
 Technical Support Specialist Plus System Administrator
   
-### OPUS IT Service Pte Ltd \
+OPUS IT Service Pte Ltd \
 Customer IT Support Representive
 
 ### 💻 Skill:
