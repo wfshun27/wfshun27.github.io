@@ -11,6 +11,7 @@ System Administration, Technical Support, Cloud Admin (Beginner)
 ### Certification of Completion 
 - Career Essentials in Data Analysis by Microsoft and LinkedIn
 - ServiceNow Fundamental (On Demand)
+- AI for All: From Basics to GenAI Practice (Nvidia)
 
 ### Experiences:
 PCS Security Pte Ltd \
