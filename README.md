@@ -8,7 +8,7 @@ System Administration, Technical Support, Cloud Admin (Beginner)
 - [Cisco Certified Network Associate (CCNA)](https://www.credly.com/badges/34b104b8-5b6c-4a7d-bcfb-a9913771ded1/public_url)
 - ITIL v4 Foundation
 
-🎓### Certification of Completion 
+### 🎓 Certification of Completion 
 - Career Essentials in Data Analysis by Microsoft and LinkedIn
 - ServiceNow Fundamental (On Demand)
 - AI for All: From Basics to GenAI Practice (Nvidia)
