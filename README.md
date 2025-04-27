@@ -43,7 +43,7 @@ Associate Web Service Product Support
 - Resolved complex customer issues efficiently.
 - Guided customers on API usage & best practices.
 
-**Singapura Finance** \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📆 Jan. 2017 - Apr. 2017** \
+**Singapura Finance** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📆 Jan. 2017 - Apr. 2017** \
 Senior Associate Engineer
 
 - Managed daily operations of Computer Systems and Data Center, supporting Core Banking Systems and addressing user  
