@@ -69,8 +69,9 @@ System Administration, Technical Support, Cloud Administration (Moving Towards)
 **Doric Solution LLP | IT Consultant** \
 **📆 Apr. 2007 - July. 2011**
 
-- R&D initiatives to diversify and enhance the company's product portfolio.
-- Delivered IT support for PCs, servers, and network management for key clients.
+- Delivered IT support and network solutions for customers, specializing in domain controller setups, application setups, file 
+  server migrations, and network infrastructure.
+- Developed and deployed custom IT solutions for various businesses, improving productivity and efficiency
 
 **Nanyang Technological Universtity | IT Executive** \
 **📆 Nov. 2004 - Apr. 2007**
