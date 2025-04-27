@@ -15,20 +15,20 @@ System Administration, Technical Support, Cloud Administration (Moving Towards)
 
 ### 💼 Experiences:
 
-**PCS Security Pte Ltd** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**📆 November 2020 -Ongoing** \
+**PCS Security Pte Ltd** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📆 November 2020 -Ongoing** \
 *Senior Engineer*
 
 - Conducted data analysis in Kibana to identify the service responsible for the incident and provided findings to the Support 
   Team.
 - Managed and administered ServiceNow ticketing systems
   
-**Intrado EC Singapore Pte Ltd** \
+**Intrado EC Singapore Pte Ltd** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📆 November 2020 -Ongoing** \
 System Administrator
 
 - Managed IT systems, including File Server and VMware, for the Singapore Office and Data Centre
 - Supported the APAC region for corporate systems and Call Centre applications, ensuring seamless user experience.
 
-**Trend Micro** \
+**Trend Micro** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📆 November 2020 -Ongoing**\
 Senior IT Engineer
 
 - IT infrastructure management at Trend Micro's AEME HQ, Singapore, ensuring robust and uninterrupted operations.
