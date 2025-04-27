@@ -28,7 +28,7 @@ System Administrator
 - Managed IT systems, including File Server and VMware, for the Singapore Office and Data Centre
 - Supported the APAC region for corporate systems and Call Centre applications, ensuring seamless user experience.
 
-**Trend Micro** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📆 Nov. 2018 - Jan. 2020**\
+**Trend Micro Singapore Pte Ltd** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📆 Nov. 2018 - Jan. 2020**\
 Senior IT Engineer
 
 - IT infrastructure management at Trend Micro's AEME HQ, Singapore, ensuring robust and uninterrupted operations.
