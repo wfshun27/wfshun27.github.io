@@ -15,8 +15,8 @@ System Administration, Technical Support, Cloud Administration (Moving Towards)
 
 ### 💼 Experiences:
 
-**PCS Security Pte Ltd** \
-Senior Engineer
+**PCS Security Pte Ltd** November 2020 -Ongoing \
+Senior Engineer 
 
 - Conducted data analysis in Kibana to identify the service responsible for the incident and provided findings to the Support 
   Team.
@@ -82,10 +82,16 @@ IT Executive
 **Hewlett Packard** \
 Technical Support Specialist Plus System Administrator
 
-- Ensured IT excellence for Singapore Forces
-- Adhered to SLAs for timely IT services
-- Managed ARCServe IT & Novell Netware
-- Safeguarded data with ARCserve backups
+- Provided IT support to Singapore Forces users, ensuring all services met the  
+  defined Service Level Agreements (SLA).
+- Managed and maintained ARCserve IT 6.6 Server operations using Novell NetWare 
+  management tools.
+- Performed daily incremental and full system backups with ARCserve Backup 
+  Management software.
+- Coordinated with third-party vendors and internal application teams to 
+  resolve IT-related issues.
+- Documented server configurations, inventory records, and IP address 
+  allocations.
 
 **OPUS IT Service Pte Ltd** \
 Customer IT Support Representive
