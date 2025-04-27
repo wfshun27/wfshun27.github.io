@@ -15,8 +15,8 @@ System Administration, Technical Support, Cloud Administration (Moving Towards)
 
 ### 💼 Experiences:
 
-**PCS Security Pte Ltd** November 2020 -Ongoing \
-Senior Engineer 
+**PCS Security Pte Ltd**                         📆 **November 2020 -Ongoing** \
+*Senior Engineer*
 
 - Conducted data analysis in Kibana to identify the service responsible for the incident and provided findings to the Support 
   Team.
@@ -119,5 +119,5 @@ Office 2016, 2019, Office 365
 ### 🎓 Education:
 Diploma in Computer Engineering
 
-### Languages:
+### 🗣️ Languages:
 English, Chinese
