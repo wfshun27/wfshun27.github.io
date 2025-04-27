@@ -22,19 +22,19 @@ System Administration, Technical Support, Cloud Administration (Moving Towards)
   Team.
 - Managed and administered ServiceNow ticketing systems
   
-**Intrado EC Singapore Pte Ltd** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📆 Jan. 2020 - Nov. 2020** \
+**Intrado EC Singapore Pte Ltd** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📆 Jan. 2020 - Nov. 2020** \
 System Administrator
 
 - Managed IT systems, including File Server and VMware, for the Singapore Office and Data Centre
 - Supported the APAC region for corporate systems and Call Centre applications, ensuring seamless user experience.
 
-**Trend Micro** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📆 Nov. 2018 - Jan. 2020**\
+**Trend Micro** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📆 Nov. 2018 - Jan. 2020**\
 Senior IT Engineer
 
 - IT infrastructure management at Trend Micro's AEME HQ, Singapore, ensuring robust and uninterrupted operations.
 - Implemented Evoko Liso room booking solutions to facilitate the booking of meeting rooms.
 - Streamlined inventory and vendor management, enhancing multimedia for EBC
-- Standardized IT equipment refreshes and innovated training rooms with advanced Zoom features
+- Standardized IT equipment refreshes and innovated training rooms with advanced Zoom featuresx 
 
 **Sabre Corporation (Asia Pacific)** \
 Associate Web Service Product Support
