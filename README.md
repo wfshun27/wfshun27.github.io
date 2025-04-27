@@ -121,3 +121,5 @@ Diploma in Computer Engineering
 
 ### 🗣️ Languages:
 English, Chinese
+
+Let's rename \*our-new-project\* to \*our-old-project\*.
