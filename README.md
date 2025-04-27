@@ -15,43 +15,43 @@ System Administration, Technical Support, Cloud Administration (Moving Towards)
 
 ### 💼 Experiences:
 
-**PCS Security Pte Ltd** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📆 Nov. 2020 -Ongoing** \
-*Senior Engineer*
+**PCS Security Pte Ltd | Senior Engineer** \
+**📆 Nov. 2020 -Ongoing**
 
 - Conducted data analysis in Kibana to identify the service responsible for the incident and provided findings to the Support 
   Team.
 - Managed and administered ServiceNow ticketing systems
   
-**Intrado EC Singapore Pte Ltd** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📆 Jan. 2020 - Nov. 2020** \
-System Administrator
+**Intrado EC Singapore Pte Ltd | System Administrator** \
+**📆 Jan. 2020 - Nov. 2020**
 
 - Managed IT systems, including File Server and VMware, for the Singapore Office and Data Centre
 - Supported the APAC region for corporate systems and Call Centre applications, ensuring seamless user experience.
 
-**Trend Micro Singapore Pte Ltd** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📆 Nov. 2018 - Jan. 2020** \
-Senior IT Engineer
+**Trend Micro Singapore Pte Ltd | Senior IT Engineer** \
+**📆 Nov. 2018 - Jan. 2020**
 
 - IT infrastructure management at Trend Micro's AEME HQ, Singapore, ensuring robust and uninterrupted operations.
 - Implemented Evoko Liso room booking solutions to facilitate the booking of meeting rooms.
 - Streamlined inventory and vendor management, enhancing multimedia for EBC
 - Standardized IT equipment refreshes and innovated training rooms with advanced Zoom featuresx 
 
-**Sabre Corporation (Asia Pacific)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📆 Apr. 2017 - Nov. 2018** \ 
-Associate Web Service Product Support
+**Sabre Corporation (Asia Pacific) | Associate Web Service Product Support** \
+**📆 Apr. 2017 - Nov. 2018**
 
 - Supported API services for Air, Car, Hotel, and Cruise.
 - Resolved complex customer issues efficiently.
 - Guided customers on API usage & best practices.
 
-**Singapura Finance** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📆 Jan. 2017 - Apr. 2017** \
-Senior Associate Engineer
+**Singapura Finance | Senior Associate Engineer** \
+**📆 Jan. 2017 - Apr. 2017**
 
 - Managed daily operations of Computer Systems and Data Center, supporting Core Banking Systems and addressing user  
   technical requirements.
 - Collaborated with the team to deliver timely and accurate reports as needed.
 
-**Rockwell Collins (Information Management Services)** &nbsp;&nbsp; **📆 May. 2012 - Jan. 2017** \ 
-Staff Engineer
+**Rockwell Collins (Information Management Services) | Staff Engineer** \
+**📆 May. 2012 - Jan. 2017**
 
 - Delivered IT support across 12 countries, ensuring hardware/software resolution and video conferencing support for 200+ staff
 - Liaised with Technology Services Engineers and Analysts from Annapolis on diverse IT projects.
@@ -59,28 +59,28 @@ Staff Engineer
   planning and stakeholder coordination.
 - Administered Active Directory, managed Exchange operation, and Executed Daily Tape Backups
 
-**ST Electronic (Info-Comm)** &nbsp;&nbsp;&nbsp;&nbsp; **📆 Aug. 2011 - May. 2012** \ 
-Senior Associate Engineer
+**ST Electronic (Info-Comm) | Senior Associate Engineer** \
+**📆 Aug. 2011 - May. 2012**
 
 - Managed Configuration Management across 20+ sites, 100+ servers, and 25 firewalls
 - Documented BigFix/Tivoli setup for system maintenance use
 - Served as BMS, providing 2nd level onsite technical support
 
-**Doric Solution LLP** &nbsp;&nbsp;&nbsp;&nbsp; **📆 Apr. 2007 - July. 2011** \
-IT Consultant
+**Doric Solution LLP | IT Consultant** \
+**📆 Apr. 2007 - July. 2011**
 
 - R&D initiatives to diversify and enhance the company's product portfolio.
 - Delivered IT support for PCs, servers, and network management for key clients.
 
-**Nanyang Technological Universtity** &nbsp;&nbsp;&nbsp;&nbsp; **📆 Nov. 2004 - Apr. 2007** \
-IT Executive
+**Nanyang Technological Universtity | IT Executive** \
+**📆 Nov. 2004 - Apr. 2007**
 
 - Delivered comprehensive IT support to staff, enhancing academic operations
 - Administered Linux/Windows servers, ensuring robust system performance
 - Upgraded lab equipment & software, boosting academic and research capabilities
 
-**Hewlett Packard** &nbsp;&nbsp;&nbsp;&nbsp; **📆 Aug. 2003 - Oct. 2004** \
-Technical Support Specialist Plus System Administrator
+**Hewlett Packard | Technical Support Specialist Plus System Administrator** \
+**📆 Aug. 2003 - Oct. 2004**
 
 - Provided IT support to Singapore Forces users, ensuring all services met the  
   defined Service Level Agreements (SLA).
@@ -93,17 +93,17 @@ Technical Support Specialist Plus System Administrator
 - Documented server configurations, inventory records, and IP address 
   allocations.
 
-**OPUS IT Service Pte Ltd** &nbsp;&nbsp;&nbsp;&nbsp; **📆 May. 2003 - Aug. 2003** \
-Customer IT Support Representive
+**OPUS IT Service Pte Ltd | Customer IT Support Representive** \
+**📆 May. 2003 - Aug. 2003**
 
 - Resolved IT issues in Call Center for Singapore General Hospital project.
 - Cloned 500 laptops to IBM machines within a tight 1-month deadline for PWCC.
 
 ### 💻 Skill:
-**Language:**\
+**Language:** \
 Python, Powershell, XML, JSON
 
-**Monitoring:**\
+**Monitoring:** \
 CA UMI, Elastic (Kibana)
 
 **Operation System:** \
