@@ -15,7 +15,7 @@ System Administration, Technical Support, Cloud Administration (Moving Towards)
 
 ### 💼 Experiences:
 
-**PCS Security Pte Ltd** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📆 Nov. 2020 -Ongoing** \
+**PCS Security Pte Ltd** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📆 Nov. 2020 -Ongoing** \
 *Senior Engineer*
 
 - Conducted data analysis in Kibana to identify the service responsible for the incident and provided findings to the Support 
@@ -28,7 +28,7 @@ System Administrator
 - Managed IT systems, including File Server and VMware, for the Singapore Office and Data Centre
 - Supported the APAC region for corporate systems and Call Centre applications, ensuring seamless user experience.
 
-**Trend Micro Singapore Pte Ltd** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📆 Nov. 2018 - Jan. 2020**\
+**Trend Micro Singapore Pte Ltd** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📆 Nov. 2018 - Jan. 2020**\
 Senior IT Engineer
 
 - IT infrastructure management at Trend Micro's AEME HQ, Singapore, ensuring robust and uninterrupted operations.
@@ -36,21 +36,21 @@ Senior IT Engineer
 - Streamlined inventory and vendor management, enhancing multimedia for EBC
 - Standardized IT equipment refreshes and innovated training rooms with advanced Zoom featuresx 
 
-**Sabre Corporation (Asia Pacific)** \
+**Sabre Corporation (Asia Pacific)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📆 Apr. 2017 - Nov. 2018**\ 
 Associate Web Service Product Support
 
 - Supported API services for Air, Car, Hotel, and Cruise.
 - Resolved complex customer issues efficiently.
 - Guided customers on API usage & best practices.
 
-**Singapura Finance** \
+**Singapura Finance** \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **📆 Jan. 2017 - Apr. 2017**\
 Senior Associate Engineer
 
 - Managed daily operations of Computer Systems and Data Center, supporting Core Banking Systems and addressing user  
   technical requirements.
 - Collaborated with the team to deliver timely and accurate reports as needed.
 
-**Rockwell Collins (Information Management Services)** \
+**Rockwell Collins (Information Management Services)** &nbsp;&nbsp; **📆 May. 2012 - Jan. 2017**\ 
 Staff Engineer
 
 - Delivered IT support across 12 countries, ensuring hardware/software resolution and video conferencing support for 200+ staff
@@ -59,27 +59,27 @@ Staff Engineer
   planning and stakeholder coordination.
 - Administered Active Directory, managed Exchange operation, and Executed Daily Tape Backups
 
-**ST Electronic (Info-Comm)** \
+**ST Electronic (Info-Comm)** &nbsp;&nbsp;&nbsp;&nbsp; **📆 Aug. 2011 - May. 2012**\ 
 Senior Associate Engineer
 
 - Managed Configuration Management across 20+ sites, 100+ servers, and 25 firewalls
 - Documented BigFix/Tivoli setup for system maintenance use
 - Served as BMS, providing 2nd level onsite technical support
 
-**Doric Solution LLP** \
+**Doric Solution LLP** &nbsp;&nbsp;&nbsp;&nbsp; **📆 Apr. 2007 - July. 2011**\
 IT Consultant
 
 - R&D initiatives to diversify and enhance the company's product portfolio.
 - Delivered IT support for PCs, servers, and network management for key clients.
 
-**Nanyang Technological Universtity** \
+**Nanyang Technological Universtity** &nbsp;&nbsp;&nbsp;&nbsp; **📆 Nov. 2004 - Apr. 2007**\
 IT Executive
 
 - Delivered comprehensive IT support to staff, enhancing academic operations
 - Administered Linux/Windows servers, ensuring robust system performance
 - Upgraded lab equipment & software, boosting academic and research capabilities
 
-**Hewlett Packard** \
+**Hewlett Packard** &nbsp;&nbsp;&nbsp;&nbsp; **📆 Aug. 2003 - Oct. 2004**\
 Technical Support Specialist Plus System Administrator
 
 - Provided IT support to Singapore Forces users, ensuring all services met the  
@@ -93,7 +93,7 @@ Technical Support Specialist Plus System Administrator
 - Documented server configurations, inventory records, and IP address 
   allocations.
 
-**OPUS IT Service Pte Ltd** \
+**OPUS IT Service Pte Ltd** &nbsp;&nbsp;&nbsp;&nbsp; **📆 May. 2003 - Aug. 2003**\
 Customer IT Support Representive
 
 - Resolved IT issues in Call Center for Singapore General Hospital project.
