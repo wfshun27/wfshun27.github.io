@@ -21,6 +21,7 @@ System Administration, Technical Support, Monitoring, Cloud Administration (Movi
 
 - Conducted data analysis in Kibana to identify the service responsible for the incident and provided findings to the Support 
   Team.
+- Creating Monitoring Dashboard in Kibana
 - Managed and administered ServiceNow ticketing systems
   
 **Intrado EC Singapore Pte Ltd | System Administrator** \
@@ -123,4 +124,3 @@ Diploma in Computer Engineering
 
 ### 🗣️ Languages:
 English, Chinese
-
