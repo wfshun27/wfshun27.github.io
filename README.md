@@ -4,7 +4,7 @@
 System Administration, Technical Support, Monitoring, Cloud Administration (Moving Towards)
 
 ### Personal Blog:
-[IT Blog Site at Wordpress] (https://wfshun.wordpress.com)
+[IT Blog Site at Wordpress](https://wfshun.wordpress.com)
 
 ### 📃 Certificate:
 - Microsoft: [AZ-104](https://learn.microsoft.com/api/credentials/share/en-gb/OngHockSoon-8999/76F5FABDCAF05B98?sharingId=343CE5989FD29592), [AZ-204](https://learn.microsoft.com/api/credentials/share/en-gb/OngHockSoon-8999/7D03550A692CF07C?sharingId=343CE5989FD29592), [AZ-350](https://learn.microsoft.com/api/credentials/share/en-gb/OngHockSoon-8999/357416EE6CF411C8?sharingId=343CE5989FD29592), [AZ-400](https://learn.microsoft.com/api/credentials/share/en-gb/OngHockSoon-8999/95713F6D6A977650?sharingId=343CE5989FD29592), [AZ-500](https://learn.microsoft.com/api/credentials/share/en-gb/OngHockSoon-8999/357416EE6CF411C8?sharingId=343CE5989FD29592), [AZ-700](https://learn.microsoft.com/api/credentials/share/en-gb/OngHockSoon-8999/4C92C8AEF85C7008?sharingId=343CE5989FD29592), [AZ-900](https://learn.microsoft.com/api/credentials/share/en-gb/OngHockSoon-8999/AE4A0378F2DA049F?sharingId=343CE5989FD29592), [SC900](https://learn.microsoft.com/api/credentials/share/en-gb/OngHockSoon-8999/815782374434F707?sharingId=343CE5989FD29592)
